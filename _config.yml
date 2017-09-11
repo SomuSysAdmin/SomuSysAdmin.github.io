@@ -18,9 +18,7 @@ tagline:             Easiest way to earn some SysAdmin mojo!
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  A short set of notes and pointers concerning everything I know about System Administration, including Linux Basics 
-  (Red Hat Enterprise Linux 7, CentOS 7, etc), Shell (Bash) Scripting, and automation via Python!
-
+  A short set of notes and pointers concerning everything I know about System Administration.
 # This should be the same author as first entry in `_data/authors.yml`
 author:
   name:              Somenath Sinha
