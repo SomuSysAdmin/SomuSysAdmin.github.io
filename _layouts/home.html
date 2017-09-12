@@ -2,38 +2,18 @@
 layout: base
 ---
 
+{% assign author = site.data.authors[page.author] | default:site.data.authors.first[1] | default:site.author %}
+
 <article class="page" role="article">
   <header>
+  	{% if author.picture %}
+    	{% include srcset-img.html class="me" img=author.picture alt=author.name %}
+  	{% endif %}
     <h1 class="page-title">{{ page.title | default:"Home"}}</h1>
     {% include message.html text=page.description %}
   </header>
 
+  {{ author.about | markdownify }}
+
   {{ content }}
-
-  <hr class="dingbat"/>
-
-  {% if site.posts.size > 0 %}
-    <h2 class="hr">Posts</h2>
-    <ul class="related-posts">
-      {% for post in site.posts limit:5 %}
-        {% include post-list-item.html post=post %}
-      {% endfor %}
-    </ul>
-  {% endif %}
-
-  {% assign pages = site.html_pages | where:"layout","page" %}
-  {% if pages.size > 0 %}
-    <h2 class="hr">Pages</h2>
-    <ul class="related-posts">
-      {% for page in pages limit:5 %}
-        {% if page.layout == 'page' %}
-          <li class="h4">
-            <a href="{{ page.url | relative_url }}" data-flip="title">
-              <span>{{ page.title }}</span>
-            </a>
-          </li>
-        {% endif %}
-      {% endfor %}
-    </ul>
-  {% endif %}
 </article>

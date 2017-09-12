@@ -4,8 +4,6 @@ title	:	"Finding Files"
 tags	:	[RHCSA, RHCSA_mod1, system management, using essential tools, find, which, locate, updatedb]
 ---
 
-## 2.2 Finding Files
-
 The `find` command is used to find a file within a folder and its subdirectories. When the starting point of the search is the root directory (/) then find will search the entire file system.
 While the utility is extremely thorough, this may cause delays due to remote devices on the network mounted on the file system.
 
