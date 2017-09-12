@@ -21,14 +21,14 @@ $ which passwd
 /usr/bin/passwd
 ```
 
-Contrastingly, the command `whereis` not only gives us the locaiton of the binary, but the location of the complete environment of the binary!
+Contrastingly, the command `whereis` not only gives us the location of the binary, but the location of the complete environment of the binary!
 
 ```sh
 $ whereis passwd
 passwd: /usr/bin/passwd /etc/passwd /usr/share/man/man1/passwd.1.gz /usr/share/man/man5/passwd.5.gz
 ```
 
-Another similar utility is called `locate` which shows all files that have the string provided to it in its name. Note, however, that locate operates on a database, that must be updated (especially after the creation of a new file) to show relevant results.
+Another similar utility is called `locate` which shows all files that have the string provided to it in its name. Note, however, that `locate` operates on a database, invoked for refresh by `updatedb`, that must be updated (especially after the creation of a new file) to show relevant results.
 
 ```sh
 [root@testBed Documents]# touch sinha
