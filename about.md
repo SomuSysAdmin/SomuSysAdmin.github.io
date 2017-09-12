@@ -18,6 +18,6 @@ This site contains several articles that intend to provide you with the training
 Everytime you think of what a good SysAdmin is, remember this story: 
 >Your attitude should be that if you lose a VM entirely, you think "Well, that's a bummer. Guess I'll **run the deploy script and grab a sandwich**. Should be back to normal in 10 minutes."
 
-So, when you feel ready, browse through the several articles on the [home](index.md) page to get going. If you're just starting out, the best starting point would be the RHCSA guide, followed by the RHCE guide. Both were made from my personal notes as I prepped for the certifications. 
+So, when you feel ready, browse through the several articles on the [home](/index.md) page to get going. If you're just starting out, the best starting point would be the RHCSA guide, followed by the RHCE guide. Both were made from my personal notes as I prepped for the certifications. 
 
 They don't hold your hand completely while learning the essentials, but they don't hold you back with voluminous descriptions of processes either! Just read through the text and practice executing the code. That's all it takes!!
