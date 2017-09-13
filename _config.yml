@@ -25,7 +25,7 @@ author:
   email:             somu.sysadm@gmail.com
 
 # Fallback image and color
-image:               /assets/img/BG.png
+image:               /assets/img/BG.jpg
 color:               '#4ea97e'
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
