@@ -1,7 +1,7 @@
 ---
 type : post
 title : 'Working with Links'
-tags : [RHCSA, RHCSA_mod1, system management, using essential tools, Understanding links]
+tags : [RHCSA, RHCSA_mod1, system management, using essential tools, ls -il, ln, ln -s]
 ---
 
 The `ln` command is used to create both hardlinks and symbolic links. To create a symbolic
