@@ -1,6 +1,6 @@
 ---
 type : post
-title : Understanding Links
+title : 'Understanding Links'
 tags : [RHCSA, RHCSA_mod1, system management, using essential tools, Understanding links]
 ---
 

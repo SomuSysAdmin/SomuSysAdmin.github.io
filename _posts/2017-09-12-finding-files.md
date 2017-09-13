@@ -1,6 +1,6 @@
 ---
 layout 	:	post
-title	:	"Finding Files"
+title	:	'Finding Files'
 tags	:	[RHCSA, RHCSA_mod1, system management, using essential tools, find, which, locate, updatedb]
 ---
 
