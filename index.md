@@ -9,6 +9,7 @@ Here's a list of all the major articles this blog contains:
 
 ## [Red Hat Certified System Administrator (RHCSA) Guide]({% link courses/RHCSA.md %})
 
+![RHCSA Logo](assets/img/RHCSA_Poster.jpg)
 
 Red Hat Certified System Admininstrator (RHCSA) is the most basic course for someone trying to be a SysAdmin which familiarize a candidate with concepts and commands needed to be a SysAdmin. While other courses are avialable, the best part about this course is the fact that the examinee has to learn nothting by heart, and must learn to perform all of the tasks listed below (and more). The exam is completely lab-based practical where you're scored on the basis of the tasks that you perform over the period of 2.5 hours and one must score 210/300 to even pass the exam!
 
