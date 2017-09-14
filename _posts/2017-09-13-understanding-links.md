@@ -1,7 +1,7 @@
 ---
 type : post
 title : 'Understanding Links'
-tags : [RHCSA, RHCSA_mod1, system management, using essential tools, Understanding links]
+tags : [RHCSA, RHCSA_mod1, system management, using essential tools, understanding links]
 ---
 
 **inode** - An inode is a datastructure that describes a file system object such as a file or a

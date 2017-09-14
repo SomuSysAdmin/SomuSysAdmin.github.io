@@ -17,4 +17,7 @@ tags: [RHCSA, index, rhcsa index]
 4. [Working with links]({% post_url 2017-09-13-working-with-links %})
 5. [Working with tar]({% post_url 2017-09-13-working-with-tar %})
 
+### Chapter 2 - Working with Text files
+
+1. 
 

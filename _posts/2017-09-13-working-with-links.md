@@ -8,7 +8,7 @@ The `ln` command is used to create both hardlinks and symbolic links. To create 
 link, we need only add the `-s` option. The `-i` option of the `ls` command shows us the inode
 number.
 
-```sh
+```console
 [root@testBed somu]# ln /etc/hosts computers
 [root@testBed somu]# ls -il /etc/hosts computers
 8388733 -rw-r--r--. 2 root root 158 Jun 7 2013 computers
