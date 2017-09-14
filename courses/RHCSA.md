@@ -6,7 +6,7 @@ tags: [RHCSA, index, rhcsa index]
 
 # Red Hat Certified System Administrator
 
-![RHCSA Logo](assets/img/RHCSA_Poster.jpg)
+![RHCSA Logo](../assets/img/RHCSA_Poster.jpg)
 
 ## Module 1 - Performing Basic Management Tasks
 ### Chapter 2 - Using Essential Tools
