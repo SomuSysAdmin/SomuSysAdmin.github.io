@@ -57,3 +57,5 @@ Some of the skills tested in this exam are:
 * Permissive and enforcing modes of SELinux
 * File and process context listing for SELinux
 * Modifying SELinux settings via boolean settings
+
+For detailed article on each of the above topic, and more, go to my [RHCSA course page]({% link courses/RHCSA.md %}). As always, everything on this site is 100% free!
