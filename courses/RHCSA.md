@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: 'RHCSA Notes'
 tags: [RHCSA, index, rhcsa index]
 ---
