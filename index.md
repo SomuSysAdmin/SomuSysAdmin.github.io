@@ -59,3 +59,5 @@ Some of the skills tested in this exam are:
 * Modifying SELinux settings via boolean settings
 
 For detailed article on each of the above topic, and more, go to my [RHCSA course page]({% link courses/RHCSA.md %}). As always, everything on this site is 100% free!
+
+Adsense.
