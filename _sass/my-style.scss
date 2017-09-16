@@ -4,8 +4,12 @@ code {
 }
 
 /*	CUSTOM CLASSES */
-.center-image
-{
-    margin: 0 auto;
+
+.logo {
+    margin: 0 20px;
     display: inline-block;
+}
+
+.logo-wide {
+	height: 65px;
 }
